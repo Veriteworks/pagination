@@ -1,0 +1,15 @@
+Expression,説明
+Add,追加
+"Items %1 to %2 of %3 total","%3 件中 %1 件目から %2 件目を表示中"
+"%1 Item","%1 アイテム"
+"%1 Item(s)","%1 アイテム"
+Page,ページ
+Previous,前へ
+"You're currently reading page","現在表示中のページ"
+Next,次へ
+Show,表示
+"per page","件ごと"
+MageSuite,MageSuite
+Pagination,ページング
+Configuration,設定
+"Use input switcher","入力切替を使用"
